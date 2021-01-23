@@ -4,7 +4,7 @@ __I'm a Student, Developer and bit of a Competitive Programmer__
 
 - Currently learnig __Dart and Flutter__
 - Focusing on __Problem solving skills__
-- __EAT, CODE, GAME, REPEAT, DIE__
+- Updating Social Media links shortly
 
 </br>
 
