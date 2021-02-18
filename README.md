@@ -2,4 +2,6 @@
 
 _Learning as of now_
 </br>
+</br>
+</br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-of-six-paths&layout=compact)](https://github.com/code-of-six-paths/code-of-six-paths)
