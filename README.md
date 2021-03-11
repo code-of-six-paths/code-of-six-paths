@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-of-six-paths&show_icons=true&locale=en&layout=compact" alt="code-of-six-paths" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-of-six-paths&show_icons=true&locale=en" alt="code-of-six-paths" /></p>
+
